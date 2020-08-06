@@ -12,7 +12,7 @@ I am a collegian at the Muhammadiyah University of Cirebon majoring in informati
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlinkzz&layout=compact&theme=vue" alt="Top Langs" />
+  ###<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlinkzz&layout=compact&theme=vue" alt="Top Langs" />
 </a>
 
 ### 📫 You can reach me on:
