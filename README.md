@@ -7,10 +7,12 @@ I am a collegian at the Muhammadiyah University of Cirebon majoring in informati
 - 👯 I’m looking to collaborate on [Akatekno ID](https://github.com/AkateknoID)
 - 💬 Ask me about anything [here](https://github.com/Orlinkzz/Humaedi/issues)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orlinkzz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=vue" alt="Orlinkzz's github stats" />
-</a>
+</a> -->
 
+![Orlinkzz GitHub stats](https://github-readme-stats.vercel.app/api/?username=orlinkzz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orlinkzz&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlinkzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 You can reach me on:
