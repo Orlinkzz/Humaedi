@@ -11,6 +11,8 @@ I am a collegian at the Muhammadiyah University of Cirebon majoring in informati
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orlinkzz&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=vue" alt="Orlinkzz's github stats" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlinkzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 You can reach me on:
 * Instagram: [@_humaedi](https://www.instagram.com/_humaedi)
 * Facebook: [Humaedi](https://www.facebook.com/medi.kedungsana)
