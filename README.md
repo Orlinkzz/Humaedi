@@ -4,7 +4,7 @@ I am a collegian at the Muhammadiyah University of Cirebon majoring in informati
 
 - 🧑 I'm the founder of [akatekno.id](https://akatekno.id) & [Senimankode.com](https://senimankode.com)
 - 🔭 I’m currently working on my private project 
-- 🌱 I'm learning Web, Flutter and Android Kotlin
+- 🌱 I'm learning Web and Android Kotlin
 - 👯 I'm collaborating at [Akatekno ID](https://github.com/AkateknoID)
 - 💬 Ask me about anything [here](https://github.com/Orlinkzz/Humaedi/issues)
 
