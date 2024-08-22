@@ -1,6 +1,6 @@
 ### Hi there, I'm [Humaedi!](https://humaedi.akatekno.id) 👋
 
-I am a collegian at the Muhammadiyah University of Cirebon majoring in informatics Engineering. I am interested in Software Development, IoT and Linux Systems.
+I'm a passionate full-stack developer with a love for web and mobile development. Most of my work is done in private repositories, but here you can explore some of my public projects and contributions.
 
 - 🧑 I'm the founder of [akatekno.id](https://akatekno.id) & [Senimankode.com](https://senimankode.com)
 - 🔭 I’m currently working on my private project 
