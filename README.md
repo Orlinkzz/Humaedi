@@ -8,6 +8,14 @@ I'm a passionate full-stack developer with a love for web and mobile development
 - 👯 I'm collaborating at [Akatekno ID](https://github.com/AkateknoID)
 - 💬 Ask me about anything [here](https://github.com/Orlinkzz/Humaedi/issues)
 
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orlinkzz/Orlinkzz/refs/heads/svg/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orlinkzz/Orlinkzz/refs/heads/svg/light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Orlinkzz/Orlinkzz/refs/heads/svg/light.svg">
+  </picture>
+</div>
+
 <!-- ![Orlinkzz GitHub stats](https://github-readme-stats.vercel.app/api/?username=orlinkzz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orlinkzz&theme=dark)](https://git.io/streak-stats)
 
